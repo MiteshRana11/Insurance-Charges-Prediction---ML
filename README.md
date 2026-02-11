@@ -43,16 +43,18 @@ The model is trained using **Linear Regression** and the interactive web applica
 
 ## 📂 Project Files Structure (GitHub)
 All project files are inside the **Mitesh** folder:
+
+```txt
 Insurance-Charges-Prediction---ML/
 │
 └── Mitesh/
-├── user_interface.py
-├── insurance.csv
-├── insurance.py
-├── Presentation_Mitesh.pptx
-├── Report_Mitesh.pdf
-├── Scan_Report.pdf
-└── README.md
+    ├── user_interface.py
+    ├── insurance.csv
+    ├── insurance.py
+    ├── Presentation_Mitesh.pptx
+    ├── Report_Mitesh.pdf
+    ├── Scan_Report.pdf
+    └── README.md
 
 
 ---
