@@ -40,23 +40,18 @@ The model is trained using **Linear Regression** and the interactive web applica
 - Matplotlib
 
 ---
-## 👨‍💻 Author  
-Developed by **[Mitesh Rana](https://github.com/Miteshrana11)**  
-
----
 ## 📂 Project Files Structure (GitHub)
 All project files are inside the **Mitesh** folder:
 
 Insurance-Charges-Prediction---ML/
-│
-└── Mitesh/
-    ├── user_interface.py
-    ├── insurance.csv
-    ├── insurance.py
-    ├── Presentation_Mitesh.pptx
-    ├── Report_Mitesh.pdf
-    ├── Scan_Report.pdf
-    └── README.md
+── Mitesh/
+    ── user_interface.py
+    ── insurance.csv
+    ── insurance.py
+    ── Presentation_Mitesh.pptx
+    ── Report_Mitesh.pdf
+    ── Scan_Report.pdf
+    ── README.md
 
 ---
 
@@ -75,7 +70,7 @@ Insurance-Charges-Prediction---ML/
 4. **Run the Streamlit App**
   - streamlit run user_interface.py
 
-5: Open in Browser**
+5. **Open in Browser**
   - Streamlit will open automatically, otherwise open:
   - http://localhost:8501
 
@@ -83,14 +78,17 @@ Insurance-Charges-Prediction---ML/
 
 ## 📌 Output & 📸 Screenshot  
 👉 is Here
-<img width="1897" height="980" alt="image" src="https://github.com/user-attachments/assets/0e6f97c0-217d-4073-a09e-c0134bba76b6" />
 
-<img width="1920" height="1410" alt="image" src="https://github.com/user-attachments/assets/1dec62f4-fa0b-4770-af6d-5d364668776e" />
+<img width="1365" height="719" alt="Screenshot 2026-02-11 124017" src="https://github.com/user-attachments/assets/2ff3cd5c-dec4-4ab4-b9c0-ad35c0846bf3" />
 
-<img width="1783" height="626" alt="image" src="https://github.com/user-attachments/assets/833efe7b-102d-46f6-a307-41551035d6ca" />
+<img width="833" height="173" alt="Screenshot 2026-02-11 123953" src="https://github.com/user-attachments/assets/ff7dcbe9-e0b7-4120-8399-f58d778ae38b" />
 
-<img width="1336" height="842" alt="image" src="https://github.com/user-attachments/assets/c2cb2c1a-1680-4467-899b-414d749e1396" />
+<img width="1365" height="714" alt="Screenshot 2026-02-11 124032" src="https://github.com/user-attachments/assets/d057a590-8b59-4a5c-94c7-08674cc7a0b1" />
 
-<img width="1915" height="974" alt="image" src="https://github.com/user-attachments/assets/19feb91e-d7e7-4b04-aae4-6bae2736d8dd" />
+
+---
+
+## 👨‍💻 Author  
+Developed by **[Mitesh Rana](https://github.com/Miteshrana11)**  
 
 ---
