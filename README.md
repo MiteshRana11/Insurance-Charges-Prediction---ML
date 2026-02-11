@@ -40,11 +40,13 @@ The model is trained using **Linear Regression** and the interactive web applica
 - Matplotlib
 
 ---
+## 👨‍💻 Author  
+Developed by **[Mitesh Rana](https://github.com/Miteshrana11)**  
 
+---
 ## 📂 Project Files Structure (GitHub)
 All project files are inside the **Mitesh** folder:
 
-```txt
 Insurance-Charges-Prediction---ML/
 │
 └── Mitesh/
@@ -56,42 +58,39 @@ Insurance-Charges-Prediction---ML/
     ├── Scan_Report.pdf
     └── README.md
 
-
 ---
 
 ## ▶️ How to Run This Project (Step-by-Step)
 
-## Step 1: Download / Clone Repository
-```bash
-git clone https://github.com/MiteshRana11/Insurance-Charges-Prediction---ML.git
+1. **Download / Clone Repository**
+  - git clone https://github.com/MiteshRana11/Insurance-Charges-Prediction---ML.git
 
-## Step 2: Open Project Folder
-```bash
-Go inside the Mitesh folder because the main Streamlit file is there:
-cd Insurance-Charges-Prediction---ML/Mitesh
+2. **Open Project Folder**
+  - Go inside the Mitesh folder because the main Streamlit file is there:
+  - cd Insurance-Charges-Prediction---ML/Mitesh
 
-## Step 3: Install Required Libraries
-```bash
-pip install streamlit pandas numpy matplotlib scikit-learn
+3. **Install Required Libraries**
+  - pip install streamlit pandas numpy matplotlib scikit-learn
 
-## Step 4: Run the Streamlit App
-```bash
-streamlit run user_interface.py
+4. **Run the Streamlit App**
+  - streamlit run user_interface.py
 
-## Step 5: Open in Browser
-```bash
-Streamlit will open automatically, otherwise open:
-http://localhost:8501
+5: Open in Browser**
+  - Streamlit will open automatically, otherwise open:
+  - http://localhost:8501
 
 ---
 
-## 📌 Output
-Displays predicted insurance charges in dollars
-Optional graph: Actual vs Predicted Charges
+## 📌 Output & 📸 Screenshot  
+👉 is Here
+<img width="1897" height="980" alt="image" src="https://github.com/user-attachments/assets/0e6f97c0-217d-4073-a09e-c0134bba76b6" />
 
----
+<img width="1920" height="1410" alt="image" src="https://github.com/user-attachments/assets/1dec62f4-fa0b-4770-af6d-5d364668776e" />
 
-## 👨‍💻 Author
-Mitesh Rana
+<img width="1783" height="626" alt="image" src="https://github.com/user-attachments/assets/833efe7b-102d-46f6-a307-41551035d6ca" />
+
+<img width="1336" height="842" alt="image" src="https://github.com/user-attachments/assets/c2cb2c1a-1680-4467-899b-414d749e1396" />
+
+<img width="1915" height="974" alt="image" src="https://github.com/user-attachments/assets/19feb91e-d7e7-4b04-aae4-6bae2736d8dd" />
 
 ---
