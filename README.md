@@ -61,24 +61,24 @@ Insurance-Charges-Prediction---ML/
 
 ## ▶️ How to Run This Project (Step-by-Step)
 
-### Step 1: Download / Clone Repository
+## Step 1: Download / Clone Repository
 ```bash
 git clone https://github.com/MiteshRana11/Insurance-Charges-Prediction---ML.git
 
-### Step 2: Open Project Folder
+## Step 2: Open Project Folder
 ```bash
 Go inside the Mitesh folder because the main Streamlit file is there:
 cd Insurance-Charges-Prediction---ML/Mitesh
 
-### Step 3: Install Required Libraries
+## Step 3: Install Required Libraries
 ```bash
 pip install streamlit pandas numpy matplotlib scikit-learn
 
-### Step 4: Run the Streamlit App
+## Step 4: Run the Streamlit App
 ```bash
 streamlit run user_interface.py
 
-### Step 5: Open in Browser
+## Step 5: Open in Browser
 ```bash
 Streamlit will open automatically, otherwise open:
 http://localhost:8501
